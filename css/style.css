@@ -22,16 +22,18 @@
   height: 3rem;
   border-radius: 0.75rem;
   background-color: white;
+  display: inline-flex;
   
 }
 .icon-square > img {
   height: 30px;
-  display: block;
+
   
 }
 
 .profile-img {
   height: 100px;
+  width: 100px;
   border-radius: 50%;
 }
 
